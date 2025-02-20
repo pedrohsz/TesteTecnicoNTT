@@ -1,4 +1,4 @@
-# 🏗️ Teste Técnico NTT - Backend .NET 8
+# Teste Técnico NTT - Backend .NET 8
 
 ![.NET 8](https://img.shields.io/badge/.NET-8.0-blue) ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue) ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green) ![Kafka](https://img.shields.io/badge/Event%20Streaming-Kafka-orange) ![CQRS](https://img.shields.io/badge/Architecture-CQRS-purple) ![Clean Architecture](https://img.shields.io/badge/Pattern-Clean%20Architecture-success)
 
@@ -38,7 +38,7 @@ O projeto segue **Clean Architecture** e **CQRS**, garantindo modularidade e esc
 │── tests/                                # Testes Automatizados
 │   ├── TesteTecnicoNTT.UnitTests/        # Testes Unitários
 │   ├── TesteTecnicoNTT.IntegrationTests/ # Testes de Integração
-│── README.md                              # Documentação do projeto
+│── README.md                             # Documentação do projeto
 ```
 
 ✅ **Banco de Escrita:** PostgreSQL  
@@ -155,5 +155,4 @@ Ele permite **CRUD de Clientes e Pagamentos**, **Relatórios no MongoDB**, **Aut
 ---
 
 ### 📌 **🔗 Autor & Contribuições**
-**Desenvolvido por:** `Pedro Souza`  
-📌 **GitHub:** [github.com/pedrohsz](https://github.com/pedrohsz)  
+**Desenvolvido por:** `Pedro Souza`
