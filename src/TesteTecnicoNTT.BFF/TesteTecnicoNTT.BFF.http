@@ -1,0 +1,6 @@
+@TesteTecnicoNTT.BFF_HostAddress = http://localhost:5165
+
+GET {{TesteTecnicoNTT.BFF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
