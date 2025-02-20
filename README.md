@@ -2,7 +2,7 @@
 
 ![.NET 8](https://img.shields.io/badge/.NET-8.0-blue) ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue) ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green) ![Kafka](https://img.shields.io/badge/Event%20Streaming-Kafka-orange) ![CQRS](https://img.shields.io/badge/Architecture-CQRS-purple) ![Clean Architecture](https://img.shields.io/badge/Pattern-Clean%20Architecture-success)
 
-🚀 **Teste Técnico NTT** é um projeto desenvolvido com **.NET 8**, **CQRS**, **Kafka**, **PostgreSQL**, **MongoDB**, **API Gateway**, **BFF** e **OAuth2**.  
+**Teste Técnico NTT** é um projeto desenvolvido com **.NET 8**, **CQRS**, **Kafka**, **PostgreSQL**, **MongoDB**, **API Gateway**, **BFF** e **OAuth2**.  
 O sistema gerencia **Clientes** e **Pagamentos**, garantindo consistência eventual entre bancos de dados SQL e NoSQL.
 
 ---
